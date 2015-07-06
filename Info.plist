@@ -32,6 +32,8 @@
 			<string>https://*.twitter.com/*</string>
 		</array>
 	</dict>
+	<key>Description</key>
+	<string>Removes unnecessary clutter from Twitter's web interface.</string>
 	<key>DeveloperIdentifier</key>
 	<string>292K4W3NP9</string>
 	<key>ExtensionInfoDictionaryVersion</key>
