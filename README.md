@@ -1,2 +1,3 @@
 # phoenix
-This tiny Safari Extension makes Twitter look better.
+
+Tired of Twitter's bloated web interface? Try this!

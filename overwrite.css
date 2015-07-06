@@ -8,7 +8,8 @@
 	margin-top: 50px !important;
 }
 
-.content-main .timeline-tweet-box {
+.content-main .timeline-tweet-box,
+.stream-item .stream-item-footer {
 	display: none !important;
 }
 
@@ -17,4 +18,12 @@
 	border-top-right-radius: 6px !important;
 	overflow: hidden !important;
 	border-top: 1px solid #e1e8ed !important;
+}
+
+.stream-item.open .stream-item-footer {
+	display: block !important;
+}
+
+.tweet {
+	padding: 15px !important;
 }
